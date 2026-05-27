@@ -1,0 +1,10 @@
+tweepy
+pandas
+transformers
+torch
+dash
+plotly
+python-dotenv
+tweet-preprocessor
+scikit-learn
+datasets
